@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Airtel Address App</string>
+    <string name="search_keyword">Enter search keyword</string>
+    <string name="enter_city">Enter city</string>
+    <string name="city">City : </string>
+    <string name="address">Address : </string>
+</resources>
